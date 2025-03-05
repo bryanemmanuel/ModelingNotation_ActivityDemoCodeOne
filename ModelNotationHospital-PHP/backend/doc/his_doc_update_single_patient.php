@@ -154,7 +154,7 @@
                                                 
                                             </div>
 
-                                            <button type="submit" name="update_patient" class="ladda-button btn btn-success" data-style="expand-right">Add Patient</button>
+                                            <button type="submit" name="update_patient" class="ladda-button btn btn-success" data-style="expand-right">Update Patient</button>
 
                                         </form>
                                         <!--End Patient Form-->
