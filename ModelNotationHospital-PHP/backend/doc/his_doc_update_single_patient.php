@@ -93,6 +93,12 @@
                             //$cnt=1;
                             while($row=$res->fetch_object())
                             {
+
+
+                        ?>
+
+                        <?php
+                        if($row->pat_number == $pat_number ){
                         ?>
                         <div class="row">
                             <div class="col-12">
@@ -156,7 +162,8 @@
                                 </div> <!-- end card-->
                             </div> <!-- end col -->
                         </div>
-                        <?php  }?>
+
+                        <?php } }?>
                         <!-- end row -->
 
                     </div> <!-- container -->
