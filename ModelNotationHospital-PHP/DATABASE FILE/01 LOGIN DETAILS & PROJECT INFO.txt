@@ -4,7 +4,7 @@ Database Name: hmisphp
 
 
 
-** Recommended PHP Version 7.4 up **
+ Recommended PHP Version 7.4 up 
 
 
 **Admin Login Details**
